@@ -26,7 +26,7 @@ function App() {
     return (
         <div className="App">
             {isAuthenticated ? (
-                <div>
+                <div className="auth-container">
                     <h1>Welcome, {user.username}!</h1>
                     <p>Your GitHub account is connected.</p>
                 </div>
