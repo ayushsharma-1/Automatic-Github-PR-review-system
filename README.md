@@ -1,4 +1,4 @@
-# **Automatic GitHub PR Review System Backend**
+# **Automatic GitHub PR Review System**
 
 ## **Overview**
 
